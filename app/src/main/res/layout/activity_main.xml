@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/follow_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="执行关注（需要登录）"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/open_target_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="打开目标页面(需要登录和权限验证)"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/logout_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="退出登录状态"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/logout_valid_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="退出权限验证状态"
+        android:textSize="20sp" />
+
+</LinearLayout>

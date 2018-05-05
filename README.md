@@ -44,6 +44,8 @@ MultipleCall.getInstance()
 ##### 类关系
 ![](https://upload-images.jianshu.io/upload_images/3167794-af92e0f102172d59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+>[详细博文介绍请戳]（https://www.jianshu.com/p/7114d5e82e8c）
+
 >相比[参考](https://github.com/jinyb09017/delayActionDemo)：
 >- 增加了容错处理
 >- 补充了嵌套 Call 的情况

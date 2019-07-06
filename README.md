@@ -41,8 +41,8 @@ MultipleCall.getInstance()
 ```
 前置行为完成后，调用`MultipleCall.getInstance().reCheckValid();`启动验证模型
 
-### 类关系
-![](https://upload-images.jianshu.io/upload_images/3167794-af92e0f102172d59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 三、架构设计
+![类关系图](https://upload-images.jianshu.io/upload_images/3167794-af92e0f102172d59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 >[详细博文介绍请戳](https://www.jianshu.com/p/7114d5e82e8c)
 
